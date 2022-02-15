@@ -1,7 +1,8 @@
 {
     "testingGitRebase": true,
     "onFeaturebranch": true,
-    "featureBranchName": "featureA",
-    "currentCommitCountOnFeatureBranch": 10,
-    "commandFollowedForReabasing": "git rebase featureA"
+    "featureBranchName": "featureC",
+    "currentCommitCountOnFeatureBranch": 3,
+    "commandFollowedForReabasing": "git rebase featureA",
+    "nextSteps": "Make multiple commits in featureA and then rebase.Clash settings in between of this json for featureC and featureA"
 }
