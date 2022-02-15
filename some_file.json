@@ -1,5 +1,6 @@
 {
     "testingGitRebase": true,
     "onFeaturebranch": true,
-    "featureBranchName": "featureA"
+    "featureBranchName": "featureA",
+    "currentCommitCountOnFeatureBranch": 2
 }
