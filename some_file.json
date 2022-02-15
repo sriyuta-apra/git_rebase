@@ -4,5 +4,5 @@
     "featureBranchName": "featureC",
     "currentCommitCountOnFeatureBranch": 4,
     "commandFollowedForReabasing": "git rebase featureA",
-    "someRandomChanges": "yes"
+    "nextSteps": "Make multiple commits in featureA and then rebase.Clash settings in between of this json for featureC and featureA"
 }
