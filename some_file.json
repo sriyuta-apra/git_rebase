@@ -3,5 +3,5 @@
     "onFeaturebranch": true,
     "featureBranchName": "featureA",
     "currentCommitCountOnFeatureBranch": 2,
-    "commandFollowedForReabasing": "git rebase -i feature"
+    "commandFollowedForReabasing": "git rebase -i featureA"
 }
