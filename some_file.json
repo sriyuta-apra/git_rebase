@@ -2,6 +2,7 @@
     "testingGitRebase": true,
     "onFeaturebranch": true,
     "featureBranchName": "featureA",
-    "currentCommitCountOnFeatureBranch": 10,
-    "commandFollowedForReabasing": "git rebase featureA"
+    "currentCommitCountOnFeatureBranch": 11,
+    "commandFollowedForReabasing": "git rebase featureA",
+    "someRandomChanges": "yes"
 }
