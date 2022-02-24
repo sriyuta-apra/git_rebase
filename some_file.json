@@ -1,5 +1,5 @@
 {
     "testingGitRebase": true,
     "onFeaturebranch": true,
-    "onFeatureBranchName": "featureAA"
+    "onFeatureBranchName": "featureB"
 }
