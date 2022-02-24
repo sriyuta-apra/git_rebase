@@ -1,3 +1,5 @@
 {
-    "fileAddedOnBranch": "featureA"
+    "fileAddedOnBranch": "featureA",
+    "checkedoutNewBranch": true,
+    "newCheckedOutBranchName": "featureAA"
 }
